@@ -1,0 +1,15 @@
+{
+  "name": "tessel-keen",
+  "version": "0.0.0",
+  "description": "tessel + keen.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiahuang",
+  "license": "MIT",
+  "dependencies": {
+    "keen.io": "~0.1.2",
+    "accel-mma84": "~0.2.3"
+  }
+}
