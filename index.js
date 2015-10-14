@@ -9,7 +9,8 @@ console.log("setting up keen...");
 var keen = Keen.configure({
     projectId: "###",
     writeKey: "###",
-    readKey: "###"
+    readKey: "###",
+    baseUrl: "http://api.keen.io/"
 });
 
 var dataArray = [];
